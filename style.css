@@ -1,0 +1,16 @@
+body{
+  background-size: cover;
+}
+.heading{
+  font-size: 23px;
+  width: 100%;
+  margin:0%;
+}
+.nute{
+  font-size: 15px;
+  color: black;
+}
+img{
+  width: 200px;
+  border-radius: 50%;
+}
